@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Modify Key="String1" Value="Value New"/>
+  
+  <Add Key="String5" Value="Value New 5"/>
+  
+  <Remove Key="String2"/>
+</root>
